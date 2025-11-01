@@ -6,3 +6,7 @@
 
 2025-10-30:
 提交`2-first_server.js`，建立第一个HTTP服务器，可以返回一个HelloWorld
+
+2025-11-01:
+提交`3-RequestObjectANDRouting`，学习请求对象和路由
+同时将前面两个文件放进新目录，以提升仓库主页美观
